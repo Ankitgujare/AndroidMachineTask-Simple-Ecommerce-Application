@@ -59,4 +59,10 @@ com.example.androidmachinetask/
 ```
 
 ## Challenges Faced
-- Dependencies version COnflicts and Finding the compatible dependencies 
+- Dependencies version Conflicts and Finding the compatible dependencies ....
+
+
+App Ui 
+![Image Alt](https://github.com/Ankitgujare/AndroidMachineTask-Simple-Ecommerce-Application/blob/9a3c55ef74374c635b6de16b065255139d790bf7/Homescreen.jpeg)
+![Image Alt](https://github.com/Ankitgujare/AndroidMachineTask-Simple-Ecommerce-Application/blob/9a3c55ef74374c635b6de16b065255139d790bf7/ProductDetailedScreen.jpeg)
+![Image Alt](https://github.com/Ankitgujare/AndroidMachineTask-Simple-Ecommerce-Application/blob/9a3c55ef74374c635b6de16b065255139d790bf7/card.jpeg)
